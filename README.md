@@ -18,8 +18,9 @@ A React application for searching movies and tracking your personal watchlist wi
 
 ### Prerequisites
 
-- Node.js (v12.0.0 or higher)
-- npm (v6.0.0 or higher)
+- Node.js (v16.0.0 or higher)
+- npm (v7.0.0 or higher)
+- React 19.1.0
 - OMDB API key (get one at [omdbapi.com](https://www.omdbapi.com/))
 
 ### Installation
